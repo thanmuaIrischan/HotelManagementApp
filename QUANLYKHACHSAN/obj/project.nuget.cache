@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+FFJOOQRqxPIb6xOZxSPD6IpGJhOri+EWJfcaWjM7h8sVJyCSnTNUSKvS6WxzhG1nIrLCc4mmejVGIcvumF0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Documents\\QUANLYKHACHSAN\\QUANLYKHACHSAN\\QUANLYKHACHSAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO LEGION\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.webforms\\150.1586.0\\microsoft.reportingservices.reportviewercontrol.webforms.150.1586.0.nupkg.sha512",
+    "C:\\Users\\LENOVO LEGION\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1586.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1586.0.nupkg.sha512",
+    "C:\\Users\\LENOVO LEGION\\.nuget\\packages\\microsoft.sqlserver.types\\160.1000.6\\microsoft.sqlserver.types.160.1000.6.nupkg.sha512"
+  ],
+  "logs": []
+}
